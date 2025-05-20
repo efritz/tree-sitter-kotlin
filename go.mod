@@ -1,4 +1,4 @@
-module github.com/fwcd/tree-sitter-kotlin
+module github.com/efritz/tree-sitter-kotlin
 
 go 1.22
 
